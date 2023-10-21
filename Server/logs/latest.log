@@ -1,0 +1,38 @@
+[21:08:21] [Server thread/INFO]: Starting minecraft server version 1.11
+[21:08:21] [Server thread/INFO]: Loading properties
+[21:08:21] [Server thread/INFO]: Default game type: SURVIVAL
+[21:08:21] [Server thread/INFO]: Generating keypair
+[21:08:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:08:21] [Server thread/INFO]: Using default channel type
+[21:08:21] [Server thread/INFO]: Your platform does not provide complete low-level API for accessing direct buffers reliably. Unless explicitly requested, heap buffer will always be preferred to avoid potential system unstability.
+[21:08:22] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-0a81101 (MC: 1.11) (Implementing API version 1.11-R0.1-SNAPSHOT)
+[21:08:22] [Server thread/INFO]: [RaspberryJuice] Loading RaspberryJuice v1.11
+[21:08:22] [Server thread/INFO]: Preparing level "world"
+[21:08:22] [Server thread/INFO]: Preparing start region for level 0 (Seed: -6778971653524778501)
+[21:08:23] [Server thread/INFO]: Preparing spawn area: 76%
+[21:08:23] [Server thread/INFO]: Preparing start region for level 1 (Seed: -6778971653524778501)
+[21:08:24] [Server thread/INFO]: Preparing start region for level 2 (Seed: -6778971653524778501)
+[21:08:24] [Server thread/INFO]: [RaspberryJuice] Enabling RaspberryJuice v1.11
+[21:08:24] [Server thread/INFO]: [RaspberryJuice] Using port 4711
+[21:08:24] [Server thread/INFO]: [RaspberryJuice] Using RELATIVE locations
+[21:08:24] [Server thread/INFO]: [RaspberryJuice] Using RIGHT clicks for hits
+[21:08:24] [Server thread/INFO]: [RaspberryJuice] ThreadListener Started
+[21:08:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:08:24] [Server thread/INFO]: Done (2.117s)! For help, type "help" or "?"
+[21:08:24] [Server thread/INFO]: Starting remote control listener
+[21:08:24] [Server thread/WARN]: Unable to initialise rcon on 0.0.0.0:25565 : Address already in use: bind
+[21:08:39] [User Authenticator #1/INFO]: UUID of player ThePacOne is a02b57ea-e2fe-4914-9b39-d4f8dd81ac72
+[21:08:39] [Server thread/INFO]: ThePacOne[/192.168.0.7:59806] logged in with entity id 455 at ([world]-1129.6590563223538, 65.0, -44.02117707408996)
+[21:08:47] [Server thread/INFO]: ThePacOne issued server command: /gamemode 1
+[21:08:47] [Server thread/INFO]: [ThePacOne: Set own game mode to Creative Mode]
+[21:09:07] [Server thread/INFO]: Stopping the server
+[21:09:07] [Server thread/INFO]: Stopping server
+[21:09:07] [Server thread/INFO]: [RaspberryJuice] Disabling RaspberryJuice v1.11
+[21:09:07] [Server thread/INFO]: [RaspberryJuice] Raspberry Juice Stopped
+[21:09:07] [Server thread/INFO]: Saving players
+[21:09:07] [Server thread/INFO]: ThePacOne lost connection: Server closed
+[21:09:07] [Server thread/INFO]: ThePacOne left the game
+[21:09:07] [Server thread/INFO]: Saving worlds
+[21:09:07] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[21:09:07] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[21:09:07] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
